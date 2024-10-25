@@ -1,4 +1,4 @@
-# How to use the programme?
+# How to use the program?
 1. Provide the necessary data in the .py code.
 2. Enable the .sh programme as exectuable: chmod + scanner_app.sh
 3. Set the crontab - decide when you want reports(sanner_app.sh) to upload.
